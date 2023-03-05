@@ -1,4 +1,4 @@
-package com.company.AlgoQuestions;
+package com.company.ArrayQuestions;
 
 public class EquilibriumPoint {
     public static void main(String[] args) {

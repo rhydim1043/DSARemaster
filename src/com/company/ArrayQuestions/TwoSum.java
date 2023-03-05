@@ -1,7 +1,6 @@
-package com.company.AlgoQuestions;
+package com.company.ArrayQuestions;
 
 import java.util.HashMap;
-import java.util.HashSet;
 
 public class TwoSum {
     public static void main(String[] args) {

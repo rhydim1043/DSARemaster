@@ -1,4 +1,4 @@
-package com.company.AlgoQuestions;
+package com.company.ArrayQuestions;
 
 import java.util.Arrays;
 
