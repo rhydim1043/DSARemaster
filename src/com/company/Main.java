@@ -4,6 +4,6 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        // Checking for GIT
+        // Checking for GIT commit
     }
 }
