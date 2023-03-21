@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class KnapSack {
     public static void main(String[] args) {
-        int wt[] = {4,5,6};
+        int wt[] = {4,5,1};
         int val[] = {1,2,3};
         int W = 3, n = 3;
         System.out.println(knapSack(W,wt,val,n));
