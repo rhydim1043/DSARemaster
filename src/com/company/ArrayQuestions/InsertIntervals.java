@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class MergeIntervals {
+public class InsertIntervals {
     public static void main(String[] args) {
         int[][] intervals = {{1,2},{3,5},{6,7},{8,10},{12,16}};
         int[] newinterval = {4,8};
